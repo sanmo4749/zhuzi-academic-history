@@ -1,0 +1,6 @@
+interface:
+  display_name: "中国诸子学术通史研究"
+  short_description: "以文献考证、论断证据与争议网络支撑诸子学术通史研究和写作"
+  default_prompt: "使用 $zhuzi-academic-history，检索已有资料并以可回查的文献证据开展诸子学术史研究。"
+policy:
+  allow_implicit_invocation: true

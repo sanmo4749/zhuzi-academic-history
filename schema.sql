@@ -1,0 +1,14 @@
+PRAGMA foreign_keys=ON;
+CREATE TABLE sources(id TEXT PRIMARY KEY,volume INTEGER NOT NULL,path TEXT NOT NULL,filename TEXT NOT NULL,pages INTEGER NOT NULL,sha256 TEXT NOT NULL,edition TEXT NOT NULL,independent_witness INTEGER NOT NULL DEFAULT 0,kind TEXT NOT NULL DEFAULT 'modern_monograph');
+CREATE TABLE pages(id TEXT PRIMARY KEY,source_id TEXT NOT NULL REFERENCES sources(id),pdf_page INTEGER NOT NULL,printed_page TEXT,page_map_status TEXT NOT NULL,text TEXT NOT NULL,text_origin TEXT NOT NULL,review_status TEXT NOT NULL,text_sha256 TEXT NOT NULL,UNIQUE(source_id,pdf_page));
+CREATE TABLE entities(id TEXT PRIMARY KEY,label TEXT NOT NULL,type TEXT NOT NULL,aliases TEXT NOT NULL DEFAULT '[]',resolution_status TEXT NOT NULL DEFAULT 'curated_label');
+CREATE TABLE mentions(id TEXT PRIMARY KEY,entity_id TEXT NOT NULL REFERENCES entities(id),page_id TEXT NOT NULL REFERENCES pages(id),matched_text TEXT NOT NULL,review_status TEXT NOT NULL DEFAULT 'machine');
+CREATE TABLE claims(id TEXT PRIMARY KEY,summary TEXT NOT NULL,proposer TEXT NOT NULL,layer TEXT NOT NULL,modality TEXT NOT NULL,review_status TEXT NOT NULL,primary_status TEXT NOT NULL DEFAULT 'not_checked',limitations TEXT NOT NULL,supersedes TEXT REFERENCES claims(id),revision_reason TEXT);
+CREATE TABLE evidence(id TEXT PRIMARY KEY,claim_id TEXT NOT NULL REFERENCES claims(id),page_id TEXT NOT NULL REFERENCES pages(id),scope TEXT NOT NULL,review_status TEXT NOT NULL,stance TEXT NOT NULL DEFAULT 'supports',review_note TEXT NOT NULL);
+CREATE TABLE relations(id TEXT PRIMARY KEY,subject_id TEXT NOT NULL REFERENCES entities(id),predicate TEXT NOT NULL,object_id TEXT NOT NULL REFERENCES entities(id),claim_id TEXT NOT NULL REFERENCES claims(id));
+CREATE TABLE disputes(id TEXT PRIMARY KEY,question TEXT NOT NULL,positions TEXT NOT NULL,claim_ids TEXT NOT NULL,next_evidence TEXT NOT NULL,status TEXT NOT NULL DEFAULT 'open');
+CREATE TABLE methods(id TEXT PRIMARY KEY,title TEXT NOT NULL,content TEXT NOT NULL,origin TEXT NOT NULL,case_claim_ids TEXT NOT NULL);
+CREATE INDEX ix_mentions_entity ON mentions(entity_id,page_id);
+CREATE INDEX ix_evidence_claim ON evidence(claim_id);
+CREATE INDEX ix_relations_claim ON relations(claim_id);
+CREATE INDEX ix_page_source ON pages(source_id,pdf_page);

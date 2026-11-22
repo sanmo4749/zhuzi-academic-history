@@ -1,0 +1,18 @@
+{
+  "edition": "public",
+  "counts": {
+    "sources": 4,
+    "pages": 42,
+    "entities": 101,
+    "mentions": 82,
+    "claims": 64,
+    "evidence": 65,
+    "relations": 83,
+    "disputes": 9,
+    "methods": 30
+  },
+  "ocr_pages_distributed": 0,
+  "scanned_pages_distributed": 0,
+  "primary_checked_claims": 0,
+  "note": "仅精选论断摘要与页码定位，不是四册全文数据库。源段已核为本地整理记录，公众仍需独立回查。"
+}

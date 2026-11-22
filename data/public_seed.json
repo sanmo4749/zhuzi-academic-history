@@ -1,0 +1,4023 @@
+{
+  "sources": [
+    {
+      "id": "ZY1",
+      "volume": 1,
+      "path": "private_sources/ZY1.pdf",
+      "filename": "方勇《庄子学史》第1册",
+      "pages": 629,
+      "sha256": "18f505a5bdb91970e98be80e5ffcda1df5105dcb2f5f5c54e15396662a1f600e",
+      "edition": "旧版；待版权页核定",
+      "independent_witness": 0,
+      "kind": "modern_monograph"
+    },
+    {
+      "id": "ZY2",
+      "volume": 2,
+      "path": "private_sources/ZY2.pdf",
+      "filename": "方勇《庄子学史》第2册",
+      "pages": 789,
+      "sha256": "71261105c23f98b853b5b81e7e758b48e51c36e9ff7d53bd10c40724d29a00d8",
+      "edition": "旧版；待版权页核定",
+      "independent_witness": 0,
+      "kind": "modern_monograph"
+    },
+    {
+      "id": "ZY3",
+      "volume": 3,
+      "path": "private_sources/ZY3.pdf",
+      "filename": "方勇《庄子学史》第3册",
+      "pages": 932,
+      "sha256": "1712ded681b6f40bc05e6520493d02c3e1ccfb54a6badcebf97b96de9f0369d1",
+      "edition": "旧版；待版权页核定",
+      "independent_witness": 0,
+      "kind": "modern_monograph"
+    },
+    {
+      "id": "ZY4",
+      "volume": 4,
+      "path": "private_sources/ZY4.pdf",
+      "filename": "方勇《庄子学史》第4册（增补修订版，清代）",
+      "pages": 579,
+      "sha256": "ebc660c5a829c2067385432f2655db6d96588260b448858d7216a777bab068a3",
+      "edition": "增补版；待版权页核定",
+      "independent_witness": 0,
+      "kind": "modern_monograph"
+    }
+  ],
+  "pages": [
+    {
+      "id": "ZY1:95",
+      "source_id": "ZY1",
+      "pdf_page": 95,
+      "printed_page": "70",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY1:222",
+      "source_id": "ZY1",
+      "pdf_page": 222,
+      "printed_page": "198",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY1:271",
+      "source_id": "ZY1",
+      "pdf_page": 271,
+      "printed_page": "247",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY1:367",
+      "source_id": "ZY1",
+      "pdf_page": 367,
+      "printed_page": "343",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY1:404",
+      "source_id": "ZY1",
+      "pdf_page": 404,
+      "printed_page": "380",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY1:405",
+      "source_id": "ZY1",
+      "pdf_page": 405,
+      "printed_page": "381",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY1:406",
+      "source_id": "ZY1",
+      "pdf_page": 406,
+      "printed_page": "382",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY1:438",
+      "source_id": "ZY1",
+      "pdf_page": 438,
+      "printed_page": "414",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY1:509",
+      "source_id": "ZY1",
+      "pdf_page": 509,
+      "printed_page": "485",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY1:517",
+      "source_id": "ZY1",
+      "pdf_page": 517,
+      "printed_page": "493",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY1:530",
+      "source_id": "ZY1",
+      "pdf_page": 530,
+      "printed_page": "506",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY2:33",
+      "source_id": "ZY2",
+      "pdf_page": 33,
+      "printed_page": "26",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY2:69",
+      "source_id": "ZY2",
+      "pdf_page": 69,
+      "printed_page": "62",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY2:114",
+      "source_id": "ZY2",
+      "pdf_page": 114,
+      "printed_page": "107",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY2:147",
+      "source_id": "ZY2",
+      "pdf_page": 147,
+      "printed_page": "140",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY2:148",
+      "source_id": "ZY2",
+      "pdf_page": 148,
+      "printed_page": null,
+      "page_map_status": "unmapped",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY2:158",
+      "source_id": "ZY2",
+      "pdf_page": 158,
+      "printed_page": "151",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY2:159",
+      "source_id": "ZY2",
+      "pdf_page": 159,
+      "printed_page": "152",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY2:337",
+      "source_id": "ZY2",
+      "pdf_page": 337,
+      "printed_page": "332",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY2:489",
+      "source_id": "ZY2",
+      "pdf_page": 489,
+      "printed_page": "484",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY2:511",
+      "source_id": "ZY2",
+      "pdf_page": 511,
+      "printed_page": "506",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY2:546",
+      "source_id": "ZY2",
+      "pdf_page": 546,
+      "printed_page": "541",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY2:623",
+      "source_id": "ZY2",
+      "pdf_page": 623,
+      "printed_page": "618",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY2:642",
+      "source_id": "ZY2",
+      "pdf_page": 642,
+      "printed_page": "637",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY3:229",
+      "source_id": "ZY3",
+      "pdf_page": 229,
+      "printed_page": "221",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY3:230",
+      "source_id": "ZY3",
+      "pdf_page": 230,
+      "printed_page": "222",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY3:315",
+      "source_id": "ZY3",
+      "pdf_page": 315,
+      "printed_page": "307",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY3:316",
+      "source_id": "ZY3",
+      "pdf_page": 316,
+      "printed_page": "308",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY3:453",
+      "source_id": "ZY3",
+      "pdf_page": 453,
+      "printed_page": "445",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY3:455",
+      "source_id": "ZY3",
+      "pdf_page": 455,
+      "printed_page": "447",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY3:487",
+      "source_id": "ZY3",
+      "pdf_page": 487,
+      "printed_page": "479",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY3:543",
+      "source_id": "ZY3",
+      "pdf_page": 543,
+      "printed_page": "535",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY3:571",
+      "source_id": "ZY3",
+      "pdf_page": 571,
+      "printed_page": "563",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY3:590",
+      "source_id": "ZY3",
+      "pdf_page": 590,
+      "printed_page": "582",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY3:638",
+      "source_id": "ZY3",
+      "pdf_page": 638,
+      "printed_page": null,
+      "page_map_status": "unmapped",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY4:4",
+      "source_id": "ZY4",
+      "pdf_page": 4,
+      "printed_page": "一",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY4:6",
+      "source_id": "ZY4",
+      "pdf_page": 6,
+      "printed_page": "三",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY4:7",
+      "source_id": "ZY4",
+      "pdf_page": 7,
+      "printed_page": "四",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY4:11",
+      "source_id": "ZY4",
+      "pdf_page": 11,
+      "printed_page": "八",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY4:150",
+      "source_id": "ZY4",
+      "pdf_page": 150,
+      "printed_page": "一三九",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY4:300",
+      "source_id": "ZY4",
+      "pdf_page": 300,
+      "printed_page": "二八九",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "ZY4:450",
+      "source_id": "ZY4",
+      "pdf_page": 450,
+      "printed_page": "四三九",
+      "page_map_status": "image_checked",
+      "text": "",
+      "text_origin": "public_locator_only",
+      "review_status": "machine",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "entities": [
+    {
+      "id": "person:郭象",
+      "label": "郭象",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:向秀",
+      "label": "向秀",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:司马彪",
+      "label": "司马彪",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:陆德明",
+      "label": "陆德明",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:林希逸",
+      "label": "林希逸",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:褚伯秀",
+      "label": "褚伯秀",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:王念孙",
+      "label": "王念孙",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:严复",
+      "label": "严复",
+      "type": "person",
+      "aliases": "[\"嚴復\"]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:刘文典",
+      "label": "刘文典",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:王叔岷",
+      "label": "王叔岷",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:张湛",
+      "label": "张湛",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:王引之",
+      "label": "王引之",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:严璩",
+      "label": "严璩",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:曾克耑",
+      "label": "曾克耑",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:李善",
+      "label": "李善",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:刘安",
+      "label": "刘安",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:刘义庆",
+      "label": "刘义庆",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:庄子",
+      "label": "庄子",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:郭象《庄子注》",
+      "label": "郭象《庄子注》",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:向秀《庄子注》",
+      "label": "向秀《庄子注》",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:司马彪《庄子注》",
+      "label": "司马彪《庄子注》",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:世说新语·文学",
+      "label": "世说新语·文学",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:晋书·向秀传",
+      "label": "晋书·向秀传",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:经典释文·庄子音义",
+      "label": "经典释文·庄子音义",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:庄子口义",
+      "label": "庄子口义",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:南华真经义海纂微",
+      "label": "南华真经义海纂微",
+      "type": "work",
+      "aliases": "[\"南華真經義海纂微\"]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:庄子杂志",
+      "label": "庄子杂志",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:庄子评点",
+      "label": "庄子评点",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:庄子补正",
+      "label": "庄子补正",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:庄子校释",
+      "label": "庄子校释",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:庄子·天下",
+      "label": "庄子·天下",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:文选李善注",
+      "label": "文选李善注",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:庄子略要",
+      "label": "庄子略要",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:庄子后解",
+      "label": "庄子后解",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "problem:隋唐目录卷数差异",
+      "label": "隋唐目录卷数差异",
+      "type": "problem",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "text_layer:解说三",
+      "label": "解说三",
+      "type": "text_layer",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "place:日本",
+      "label": "日本",
+      "type": "place",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "text_layer:管见",
+      "label": "管见",
+      "type": "text_layer",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "problem:三月／三日",
+      "label": "三月／三日",
+      "type": "problem",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:淮南子",
+      "label": "淮南子",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "problem:下畔／下不畔",
+      "label": "下畔／下不畔",
+      "type": "problem",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "problem:圣人／圣知",
+      "label": "圣人／圣知",
+      "type": "problem",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "method_topic:以音求义、参考成训",
+      "label": "以音求义、参考成训",
+      "type": "method_topic",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "problem:培风",
+      "label": "培风",
+      "type": "problem",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "edition:眠云堂本",
+      "label": "眠云堂本",
+      "type": "edition",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "edition:严璩自藏影印本",
+      "label": "严璩自藏影印本",
+      "type": "edition",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:王栻",
+      "label": "王栻",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:严复集·庄子评语",
+      "label": "严复集·庄子评语",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "evidence_group:严复批庄年谱记载",
+      "label": "严复批庄年谱记载",
+      "type": "evidence_group",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "method_topic:思想与引用下限",
+      "label": "思想与引用下限",
+      "type": "method_topic",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "problem:而止二字",
+      "label": "而止二字",
+      "type": "problem",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "method_topic:字义、原文与旧注疏三层考证",
+      "label": "字义、原文与旧注疏三层考证",
+      "type": "method_topic",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "period_topic:清末民国研究转向",
+      "label": "清末民国研究转向",
+      "type": "period_topic",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "method_topic:学术史分类与评价",
+      "label": "学术史分类与评价",
+      "type": "method_topic",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "modern_source:庄子学史第四册增补版",
+      "label": "庄子学史第四册增补版",
+      "type": "modern_source",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "modern_source:庄子学史第三册旧版",
+      "label": "庄子学史第三册旧版",
+      "type": "modern_source",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:林仲懿",
+      "label": "林仲懿",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:南华本义",
+      "label": "南华本义",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:马其昶",
+      "label": "马其昶",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:庄子故",
+      "label": "庄子故",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:胡文蔚",
+      "label": "胡文蔚",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:顾如华",
+      "label": "顾如华",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:梅冲",
+      "label": "梅冲",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "section:第七编清代庄子学",
+      "label": "第七编清代庄子学",
+      "type": "section",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "section:第二十五章清代佛教学者的庄子学",
+      "label": "第二十五章清代佛教学者的庄子学",
+      "type": "section",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:南华真经合注吹影",
+      "label": "南华真经合注吹影",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:读庄一咳",
+      "label": "读庄一咳",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:庄子本义",
+      "label": "庄子本义",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "method_topic:人间关怀",
+      "label": "人间关怀",
+      "type": "method_topic",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:惠施",
+      "label": "惠施",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:王弼",
+      "label": "王弼",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:支遁",
+      "label": "支遁",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:成玄英",
+      "label": "成玄英",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:庄子疏",
+      "label": "庄子疏",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:王安石",
+      "label": "王安石",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:王雱",
+      "label": "王雱",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:南华真经新传",
+      "label": "南华真经新传",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:陆西星",
+      "label": "陆西星",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:南华真经副墨",
+      "label": "南华真经副墨",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:沈一贯",
+      "label": "沈一贯",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:沈一贯《庄子通》",
+      "label": "沈一贯《庄子通》",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:焦竑",
+      "label": "焦竑",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:庄子翼",
+      "label": "庄子翼",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:方以智",
+      "label": "方以智",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:药地炮庄",
+      "label": "药地炮庄",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:王夫之",
+      "label": "王夫之",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:王夫之《庄子解》",
+      "label": "王夫之《庄子解》",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:胡适",
+      "label": "胡适",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:郭沫若",
+      "label": "郭沫若",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:闻一多",
+      "label": "闻一多",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:郎擎霄",
+      "label": "郎擎霄",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:庄子学案",
+      "label": "庄子学案",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:庄子·逍遥游",
+      "label": "庄子·逍遥游",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "method_topic:知人论世",
+      "label": "知人论世",
+      "type": "method_topic",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "problem:十卷／二十卷",
+      "label": "十卷／二十卷",
+      "type": "problem",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "institution_topic:教育与科举制度",
+      "label": "教育与科举制度",
+      "type": "institution_topic",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "period_topic:明代前期庄子学",
+      "label": "明代前期庄子学",
+      "type": "period_topic",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "text_layer:笔乘",
+      "label": "笔乘",
+      "type": "text_layer",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "person:王敔",
+      "label": "王敔",
+      "type": "person",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "problem:名家是否成立",
+      "label": "名家是否成立",
+      "type": "problem",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    },
+    {
+      "id": "work:庄子内篇校释",
+      "label": "庄子内篇校释",
+      "type": "work",
+      "aliases": "[]",
+      "resolution_status": "curated_label"
+    }
+  ],
+  "mentions": [
+    {
+      "id": "N2aa742393a1c4da7077de5",
+      "entity_id": "person:郭象",
+      "page_id": "ZY1:95",
+      "matched_text": "郭象",
+      "review_status": "machine"
+    },
+    {
+      "id": "N98f558651829bc6ba988d3",
+      "entity_id": "person:司马彪",
+      "page_id": "ZY1:95",
+      "matched_text": "司马彪",
+      "review_status": "machine"
+    },
+    {
+      "id": "N1bd4338b22b7356261e55e",
+      "entity_id": "person:陆德明",
+      "page_id": "ZY1:95",
+      "matched_text": "陆德明",
+      "review_status": "machine"
+    },
+    {
+      "id": "N0d4009c641a10062f49493",
+      "entity_id": "person:李善",
+      "page_id": "ZY1:95",
+      "matched_text": "李善",
+      "review_status": "machine"
+    },
+    {
+      "id": "N232fe77e29b0513a41e245",
+      "entity_id": "person:刘安",
+      "page_id": "ZY1:95",
+      "matched_text": "刘安",
+      "review_status": "machine"
+    },
+    {
+      "id": "N74473091f4106fbd495eff",
+      "entity_id": "person:惠施",
+      "page_id": "ZY1:222",
+      "matched_text": "惠施",
+      "review_status": "machine"
+    },
+    {
+      "id": "N2fbd59ea9025c428a1af23",
+      "entity_id": "person:郭象",
+      "page_id": "ZY1:404",
+      "matched_text": "郭象",
+      "review_status": "machine"
+    },
+    {
+      "id": "Na8319b5e21361240c8e85d",
+      "entity_id": "person:向秀",
+      "page_id": "ZY1:404",
+      "matched_text": "向秀",
+      "review_status": "machine"
+    },
+    {
+      "id": "N74bc0c37ba05846e28b182",
+      "entity_id": "person:司马彪",
+      "page_id": "ZY1:404",
+      "matched_text": "司马彪",
+      "review_status": "machine"
+    },
+    {
+      "id": "Nd173434bba1265974e18fa",
+      "entity_id": "person:郭象",
+      "page_id": "ZY1:405",
+      "matched_text": "郭象",
+      "review_status": "machine"
+    },
+    {
+      "id": "N9d6d52f02d3e0e77077af5",
+      "entity_id": "person:向秀",
+      "page_id": "ZY1:405",
+      "matched_text": "向秀",
+      "review_status": "machine"
+    },
+    {
+      "id": "N8d70349674ed9503fb8171",
+      "entity_id": "person:陆德明",
+      "page_id": "ZY1:405",
+      "matched_text": "陆德明",
+      "review_status": "machine"
+    },
+    {
+      "id": "N398cbcd93f08063de0c928",
+      "entity_id": "person:刘义庆",
+      "page_id": "ZY1:405",
+      "matched_text": "刘义庆",
+      "review_status": "machine"
+    },
+    {
+      "id": "Nfaade474084fc423bfcc60",
+      "entity_id": "person:郭象",
+      "page_id": "ZY1:406",
+      "matched_text": "郭象",
+      "review_status": "machine"
+    },
+    {
+      "id": "N35b414a08c221cf3a2eefc",
+      "entity_id": "person:向秀",
+      "page_id": "ZY1:406",
+      "matched_text": "向秀",
+      "review_status": "machine"
+    },
+    {
+      "id": "Nc7d6c59a3a54402442716d",
+      "entity_id": "person:陆德明",
+      "page_id": "ZY1:406",
+      "matched_text": "陆德明",
+      "review_status": "machine"
+    },
+    {
+      "id": "N318d66f73e24d79fcb660d",
+      "entity_id": "person:张湛",
+      "page_id": "ZY1:406",
+      "matched_text": "张湛",
+      "review_status": "machine"
+    },
+    {
+      "id": "N4d6c5241bf1822a9a17dc7",
+      "entity_id": "person:支遁",
+      "page_id": "ZY1:438",
+      "matched_text": "支遁",
+      "review_status": "machine"
+    },
+    {
+      "id": "Nc0f09a6d842bd346dc0b69",
+      "entity_id": "person:郭象",
+      "page_id": "ZY1:509",
+      "matched_text": "郭象",
+      "review_status": "machine"
+    },
+    {
+      "id": "N43e2453967cee938298fcc",
+      "entity_id": "person:向秀",
+      "page_id": "ZY1:509",
+      "matched_text": "向秀",
+      "review_status": "machine"
+    },
+    {
+      "id": "N7fb0df8d6814d1cd083828",
+      "entity_id": "person:司马彪",
+      "page_id": "ZY1:509",
+      "matched_text": "司马彪",
+      "review_status": "machine"
+    },
+    {
+      "id": "Nce580ea3d74adfb21fe3ea",
+      "entity_id": "person:陆德明",
+      "page_id": "ZY1:509",
+      "matched_text": "陆德明",
+      "review_status": "machine"
+    },
+    {
+      "id": "Nfe14737423924e2e5ac391",
+      "entity_id": "person:郭象",
+      "page_id": "ZY1:517",
+      "matched_text": "郭象",
+      "review_status": "machine"
+    },
+    {
+      "id": "Nafc4fc2f4551a663103f90",
+      "entity_id": "person:成玄英",
+      "page_id": "ZY1:517",
+      "matched_text": "成玄英",
+      "review_status": "machine"
+    },
+    {
+      "id": "Nbd2a9dabae05080104bcb0",
+      "entity_id": "person:郭象",
+      "page_id": "ZY1:530",
+      "matched_text": "郭象",
+      "review_status": "machine"
+    },
+    {
+      "id": "N7077578f43c61bd3e644e0",
+      "entity_id": "person:成玄英",
+      "page_id": "ZY1:530",
+      "matched_text": "成玄英",
+      "review_status": "machine"
+    },
+    {
+      "id": "N3f25211c06a049aa2f368c",
+      "entity_id": "person:王安石",
+      "page_id": "ZY2:33",
+      "matched_text": "王安石",
+      "review_status": "machine"
+    },
+    {
+      "id": "N4c734f1631522dc4437b3e",
+      "entity_id": "person:林希逸",
+      "page_id": "ZY2:114",
+      "matched_text": "林希逸",
+      "review_status": "machine"
+    },
+    {
+      "id": "N020fd2630e5697bb7e0b9a",
+      "entity_id": "person:郭象",
+      "page_id": "ZY2:147",
+      "matched_text": "郭象",
+      "review_status": "machine"
+    },
+    {
+      "id": "Ne7c9e1136a15589706c8d4",
+      "entity_id": "person:林希逸",
+      "page_id": "ZY2:147",
+      "matched_text": "林希逸",
+      "review_status": "machine"
+    },
+    {
+      "id": "Nc61168636658a2e55afeea",
+      "entity_id": "person:郭象",
+      "page_id": "ZY2:148",
+      "matched_text": "郭象",
+      "review_status": "machine"
+    },
+    {
+      "id": "N58d4e36fd32c797ea68e31",
+      "entity_id": "person:陆德明",
+      "page_id": "ZY2:148",
+      "matched_text": "陆德明",
+      "review_status": "machine"
+    },
+    {
+      "id": "N8f8466b224efede9dc661e",
+      "entity_id": "person:陆德明",
+      "page_id": "ZY2:158",
+      "matched_text": "陆德明",
+      "review_status": "machine"
+    },
+    {
+      "id": "Na669031e4f4682f8df25e3",
+      "entity_id": "person:王念孙",
+      "page_id": "ZY2:158",
+      "matched_text": "王念孙",
+      "review_status": "machine"
+    },
+    {
+      "id": "N5df3ce1fcd013fafd84cd8",
+      "entity_id": "person:刘文典",
+      "page_id": "ZY2:158",
+      "matched_text": "刘文典",
+      "review_status": "machine"
+    },
+    {
+      "id": "N8692c1f4dc971c52495cbe",
+      "entity_id": "person:张湛",
+      "page_id": "ZY2:158",
+      "matched_text": "张湛",
+      "review_status": "machine"
+    },
+    {
+      "id": "Nef0a4c5b2feb2500a8dc58",
+      "entity_id": "person:王安石",
+      "page_id": "ZY2:337",
+      "matched_text": "王安石",
+      "review_status": "machine"
+    },
+    {
+      "id": "N0a04ed048d61073767392b",
+      "entity_id": "person:陆西星",
+      "page_id": "ZY2:489",
+      "matched_text": "陆西星",
+      "review_status": "machine"
+    },
+    {
+      "id": "N6dbf424ca2ae4f7c55cce7",
+      "entity_id": "person:郭象",
+      "page_id": "ZY2:511",
+      "matched_text": "郭象",
+      "review_status": "machine"
+    },
+    {
+      "id": "N22f8947f8080aec8aadc0f",
+      "entity_id": "person:成玄英",
+      "page_id": "ZY2:511",
+      "matched_text": "成玄英",
+      "review_status": "machine"
+    },
+    {
+      "id": "N8023eff46ac5f4c3954d25",
+      "entity_id": "person:沈一贯",
+      "page_id": "ZY2:511",
+      "matched_text": "沈一贯",
+      "review_status": "machine"
+    },
+    {
+      "id": "N600e4cc4f323b968fa66da",
+      "entity_id": "person:郭象",
+      "page_id": "ZY2:546",
+      "matched_text": "郭象",
+      "review_status": "machine"
+    },
+    {
+      "id": "N331bf196ec56a7b1559d04",
+      "entity_id": "person:向秀",
+      "page_id": "ZY2:546",
+      "matched_text": "向秀",
+      "review_status": "machine"
+    },
+    {
+      "id": "N859a22fdc94d8c27ea4d3f",
+      "entity_id": "person:司马彪",
+      "page_id": "ZY2:546",
+      "matched_text": "司马彪",
+      "review_status": "machine"
+    },
+    {
+      "id": "Nf05d147326569cf86f237a",
+      "entity_id": "person:陆德明",
+      "page_id": "ZY2:546",
+      "matched_text": "陆德明",
+      "review_status": "machine"
+    },
+    {
+      "id": "N04f476c132c1e67212a4fd",
+      "entity_id": "person:林希逸",
+      "page_id": "ZY2:546",
+      "matched_text": "林希逸",
+      "review_status": "machine"
+    },
+    {
+      "id": "N480a2f0297583733dd6321",
+      "entity_id": "person:张湛",
+      "page_id": "ZY2:546",
+      "matched_text": "张湛",
+      "review_status": "machine"
+    },
+    {
+      "id": "Nde9553b21f7b947e578999",
+      "entity_id": "person:成玄英",
+      "page_id": "ZY2:546",
+      "matched_text": "成玄英",
+      "review_status": "machine"
+    },
+    {
+      "id": "N258e88ffe61ab1d065b0be",
+      "entity_id": "person:陆西星",
+      "page_id": "ZY2:546",
+      "matched_text": "陆西星",
+      "review_status": "machine"
+    },
+    {
+      "id": "N3456d0ade419094965eb68",
+      "entity_id": "person:郭象",
+      "page_id": "ZY2:623",
+      "matched_text": "郭象",
+      "review_status": "machine"
+    },
+    {
+      "id": "N7b47e245c2617b8f394712",
+      "entity_id": "person:向秀",
+      "page_id": "ZY2:623",
+      "matched_text": "向秀",
+      "review_status": "machine"
+    },
+    {
+      "id": "N58b019c766f67acd02ee7c",
+      "entity_id": "person:林希逸",
+      "page_id": "ZY2:623",
+      "matched_text": "林希逸",
+      "review_status": "machine"
+    },
+    {
+      "id": "N627aa12fe15d7b9dbb8d6b",
+      "entity_id": "person:支遁",
+      "page_id": "ZY2:623",
+      "matched_text": "支遁",
+      "review_status": "machine"
+    },
+    {
+      "id": "Ndd9415bcb1065670e97cc1",
+      "entity_id": "person:陆西星",
+      "page_id": "ZY2:623",
+      "matched_text": "陆西星",
+      "review_status": "machine"
+    },
+    {
+      "id": "N69df15ca758760aab6e20d",
+      "entity_id": "person:方以智",
+      "page_id": "ZY2:623",
+      "matched_text": "方以智",
+      "review_status": "machine"
+    },
+    {
+      "id": "Nf8aebd9a8a33ddb706d48e",
+      "entity_id": "person:王夫之",
+      "page_id": "ZY2:642",
+      "matched_text": "王夫之",
+      "review_status": "machine"
+    },
+    {
+      "id": "N0afe82eeb3d88eae06213d",
+      "entity_id": "person:王念孙",
+      "page_id": "ZY3:229",
+      "matched_text": "王念孙",
+      "review_status": "machine"
+    },
+    {
+      "id": "N0f0f13bf15b7af8fc78744",
+      "entity_id": "person:王引之",
+      "page_id": "ZY3:229",
+      "matched_text": "王引之",
+      "review_status": "machine"
+    },
+    {
+      "id": "N0f5ae4c37c3f40fbab6c69",
+      "entity_id": "person:向秀",
+      "page_id": "ZY3:230",
+      "matched_text": "向秀",
+      "review_status": "machine"
+    },
+    {
+      "id": "Nd9ad0d11bc5202cc0e7571",
+      "entity_id": "person:王念孙",
+      "page_id": "ZY3:230",
+      "matched_text": "王念孙",
+      "review_status": "machine"
+    },
+    {
+      "id": "Neeb7b32235e048d0196838",
+      "entity_id": "person:严复",
+      "page_id": "ZY3:315",
+      "matched_text": "严复",
+      "review_status": "machine"
+    },
+    {
+      "id": "Ndc35c038ae3b497c65c305",
+      "entity_id": "person:严复",
+      "page_id": "ZY3:316",
+      "matched_text": "严复",
+      "review_status": "machine"
+    },
+    {
+      "id": "N8b7a6554b323da71c06ff0",
+      "entity_id": "person:郭象",
+      "page_id": "ZY3:453",
+      "matched_text": "郭象",
+      "review_status": "machine"
+    },
+    {
+      "id": "N7ababb8edf699409d6a608",
+      "entity_id": "person:陆德明",
+      "page_id": "ZY3:453",
+      "matched_text": "陆德明",
+      "review_status": "machine"
+    },
+    {
+      "id": "N5e6c960a31c287b423650d",
+      "entity_id": "person:王念孙",
+      "page_id": "ZY3:453",
+      "matched_text": "王念孙",
+      "review_status": "machine"
+    },
+    {
+      "id": "N1596d0cc87407eba763f0d",
+      "entity_id": "person:刘文典",
+      "page_id": "ZY3:453",
+      "matched_text": "刘文典",
+      "review_status": "machine"
+    },
+    {
+      "id": "Nc0bc47e93827ebfd32832b",
+      "entity_id": "person:王引之",
+      "page_id": "ZY3:453",
+      "matched_text": "王引之",
+      "review_status": "machine"
+    },
+    {
+      "id": "N20210e83a83641ffedf1ac",
+      "entity_id": "person:成玄英",
+      "page_id": "ZY3:453",
+      "matched_text": "成玄英",
+      "review_status": "machine"
+    },
+    {
+      "id": "Nbdc0089160dd1566ef7fdd",
+      "entity_id": "person:刘文典",
+      "page_id": "ZY3:455",
+      "matched_text": "刘文典",
+      "review_status": "machine"
+    },
+    {
+      "id": "N0a336e9478b4bc09444861",
+      "entity_id": "person:惠施",
+      "page_id": "ZY3:487",
+      "matched_text": "惠施",
+      "review_status": "machine"
+    },
+    {
+      "id": "N3e39f8d796ff6e8ba4c5c0",
+      "entity_id": "person:胡适",
+      "page_id": "ZY3:487",
+      "matched_text": "胡适",
+      "review_status": "machine"
+    },
+    {
+      "id": "N918eaee11a83500b9898fa",
+      "entity_id": "person:惠施",
+      "page_id": "ZY3:543",
+      "matched_text": "惠施",
+      "review_status": "machine"
+    },
+    {
+      "id": "N4f772a5bb5668c86632f77",
+      "entity_id": "person:郭沫若",
+      "page_id": "ZY3:543",
+      "matched_text": "郭沫若",
+      "review_status": "machine"
+    },
+    {
+      "id": "N0e3a4fde56ec49bae21f39",
+      "entity_id": "person:闻一多",
+      "page_id": "ZY3:571",
+      "matched_text": "闻一多",
+      "review_status": "machine"
+    },
+    {
+      "id": "N59678869b80bd78c412c82",
+      "entity_id": "person:胡适",
+      "page_id": "ZY3:590",
+      "matched_text": "胡适",
+      "review_status": "machine"
+    },
+    {
+      "id": "N28c7fe911a9f0621798df4",
+      "entity_id": "person:郎擎霄",
+      "page_id": "ZY3:590",
+      "matched_text": "郎擎霄",
+      "review_status": "machine"
+    },
+    {
+      "id": "N6975f0ac55332e87081e5d",
+      "entity_id": "person:胡文蔚",
+      "page_id": "ZY4:4",
+      "matched_text": "胡文蔚",
+      "review_status": "machine"
+    },
+    {
+      "id": "N97372a6534d659c57bedb1",
+      "entity_id": "person:林仲懿",
+      "page_id": "ZY4:6",
+      "matched_text": "林仲懿",
+      "review_status": "machine"
+    },
+    {
+      "id": "Nfc24d507550b89d9f71efe",
+      "entity_id": "person:梅冲",
+      "page_id": "ZY4:7",
+      "matched_text": "梅冲",
+      "review_status": "machine"
+    },
+    {
+      "id": "N9bd4040fed0696c17a6a69",
+      "entity_id": "person:林仲懿",
+      "page_id": "ZY4:150",
+      "matched_text": "林仲懿",
+      "review_status": "machine"
+    },
+    {
+      "id": "Nac4ab443787cfa6aef0a34",
+      "entity_id": "person:惠施",
+      "page_id": "ZY4:150",
+      "matched_text": "惠施",
+      "review_status": "machine"
+    },
+    {
+      "id": "N33c93c4831f1fd17129ab8",
+      "entity_id": "person:向秀",
+      "page_id": "ZY4:300",
+      "matched_text": "向秀",
+      "review_status": "machine"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C001",
+      "summary": "方勇对照隋唐目录所载司马彪注卷数的差异，推测唐代目录所记二十一卷可能是后来复得的足本。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_inference",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "“复得足本”为方勇据著录差异的推断，未见该足本实物。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C002",
+      "summary": "方勇区分《庄子》篇章与后出解说层，认为司马彪本所列“解说三”应属后人解释性文字。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_inference",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C003",
+      "summary": "方勇利用《文选》李善注中的引文，讨论刘安《庄子略要》《庄子后解》及司马彪为前者作注的材料。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_assertion",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C004",
+      "summary": "方勇将郭象删定文本的传播优势与古本篇章损失并列评价，说明定本形成同时伴随材料淘汰。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_evaluation",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C005",
+      "summary": "《世说新语·文学》的被引文字指郭象取用向秀注，并仅自注、改易部分篇章。",
+      "proposer": "刘义庆《世说新语》所载",
+      "layer": "quoted_historical_position",
+      "modality": "reported_position",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "此条记录方勇所引古代指控，不把指控认定为事实；原典尚未独立核验。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C006",
+      "summary": "方勇所引《晋书·向秀传》采用郭象对向秀注“述而广之”的表述。",
+      "proposer": "《晋书·向秀传》所载",
+      "layer": "quoted_historical_position",
+      "modality": "reported_position",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C007",
+      "summary": "方勇比较古代记述及其材料性质后，认为郭象对向秀注“述而广之”比简单剽窃的说法更合实际。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_judgment",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "本条为方勇的争议判断；其对小说、正史材料性质的权衡亦应接受进一步检验。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C008",
+      "summary": "方勇利用张湛《列子注》所存向秀注文与郭象注比较，辨析文字增损和哲学发挥，支持“述而广之”的判断。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_argument",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "页中条数为作者统计，未在本任务重新清点。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C009",
+      "summary": "方勇将陆德明的列示异文与审定刊正共同纳入《庄子音义》的校勘活动，并引用其并存两读的原则。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_assertion",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C010",
+      "summary": "方勇称据其不完全统计，《庄子音义》对郭象底本的校勘达到八百余处。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_quantified_estimate",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "八百余处是方勇的不完全统计，非本次重新统计值；需另查计数单位与合并规则。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C011",
+      "summary": "方勇依据刊本跋语、序文、讲授与相关著述，叙述林希逸《庄子口义》在日本的传播。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_argument",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C012",
+      "summary": "方勇指出日本江户中期解释取向变化后，《庄子口义》的地位下降，郭象注的地位得到恢复。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_historical_explanation",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "属于本书的历史概括，未独立检验日本庄子学全部资料；不由此推断中国同期也有同样变化。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C013",
+      "summary": "方勇介绍褚伯秀《南华真经义海纂微》一百零六卷，并记纂成于1270年，现存于《道藏》《四库全书》。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_assertion",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "日期与存本状态为方勇所述，本任务未直接核查道藏本或四库本。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C014",
+      "summary": "方勇所引四库提要将《义海纂微》所列诸家与编者“管见”区分，并说明部分间引文献不列入十三家。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "reported_bibliographic_description",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C015",
+      "summary": "方勇介绍褚伯秀以《音义》所载异文及下文“顷间”的语境，主张《山木》“三月不庭”应读“三日”。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_assertion",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C016",
+      "summary": "方勇将王念孙关于“三日”与“顷间”的申述接续于褚伯秀的校读之后。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_comparison",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "本条只保留方勇的比较与叙述次序，不另认定王念孙直接阅读并承袭褚氏。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C017",
+      "summary": "方勇介绍褚伯秀据上下文改读“无有”为“无无”，并列刘文典利用《淮南子》平行文所作的进一步论证。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_assertion",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C018",
+      "summary": "方勇介绍以《列子》及《释文》材料讨论“上忘而下畔”脱“不”字的校勘，并并列后世相近解释。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_assertion",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C019",
+      "summary": "方勇转述褚伯秀关于“圣人”改为“圣知”可能与奉旨校定及进呈顾忌相关的推测。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "reported_hypothesis",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "政治动因是推测；异文存在与动因成立须分开核验。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C020",
+      "summary": "方勇记《庄子杂志》见王念孙《读书杂志》附《综编》，并说明后者由王引之检集父亲遗稿编成。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_assertion",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C021",
+      "summary": "方勇据《庄子杂志》的校释条目，概括王念孙善于以音求义、参考成训。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_assertion",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C022",
+      "summary": "方勇将王念孙对“培风”的音义考释与《逍遥游》上下文相联系，用以说明训诂判断的篇章意义。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_interpretation",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "不把方勇据此作出的整篇逍遥义评价固化为唯一正确解释。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C023",
+      "summary": "方勇列举严复《庄子评点》眠云堂本与严璩自藏影印本等，并说明不同本子的条目、评语有出入。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_assertion",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C024",
+      "summary": "方勇据王栻编《严复集》按语，介绍其《庄子评语》以严本为主、以眠本补校的编纂方式。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_assertion",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C025",
+      "summary": "方勇将曾克耑序的癸巳纪年推为1893年，作为讨论严复早期批《庄子》的线索。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_chronological_inference",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "须另查序文原件、题署与所序文本；不能据序年断定所有现存批语同年写成。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C026",
+      "summary": "方勇引严璩年谱记1916年严复手批《庄子》，并将它与1893年序文线索比较。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "reported_chronological_evidence",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C027",
+      "summary": "方勇指出数种年谱对1916年批庄记载相近，但可能相互借鉴，不能视为多份独立证据。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_sourcecriticism",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C028",
+      "summary": "方勇提出今见《庄子评点》可能是严复1916年利用1893年前批语并融合后来材料形成，并认为现行版本属1916年批点本的可能性较大。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_hypothesis",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "保留方勇“可能”“可能性较大”的限定；无原批本独立核验，不作为确定的定稿年代。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C029",
+      "summary": "方勇以内容所见西学反思及所引西书积累，作为现行严复评点文本较晚形成的内证。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_argument",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "思想内证不能独立替代物质版本和题署考证。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C030",
+      "summary": "方勇介绍刘文典《庄子补正》综合原文、郭注、成疏、陆氏音义，并利用版本、类书和前人成果。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_assertion",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C031",
+      "summary": "方勇介绍刘文典利用他书引文、旧校本及郭象注文，支持补入《逍遥游》“而止”二字。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_argument",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C032",
+      "summary": "方勇把刘文典《庄子补正》的贡献概括为探求字义、校订原文及纠正旧注疏。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_evaluation",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C033",
+      "summary": "方勇记王叔岷《庄子校释》1941年8月始撰、1944年8月完稿，前有自序，后附补遗、逸文及评刘文典《庄子补正》。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_assertion",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "此处记录本书所载成稿时间与附录，不把它当刊行日期。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C034",
+      "summary": "方勇将清末以来《天下》篇独立研究的兴起，与学界对该篇学术史地位的认识联系起来。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_historical_explanation",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C035",
+      "summary": "方勇认为《天下》篇具有追溯学术源流、学派分类及评论学说的意义，并称其为中国最早的学术史论文。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_evaluation",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "“最早”是方勇的评价，需界定学术史论文的含义并另检验，不作为无归属的通行事实。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C036",
+      "summary": "第四册增补版目录将清代庄子学列为第七编；这属于本版编次，不能沿用旧第三册的第六编编号。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "edition_structure",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "已核本版目录编次；没有据此推定未提供的增补版其他册内容。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C037",
+      "summary": "第四册增补版目录以第二十五章“清代佛教学者的庄子学”收尾，清代部分的章节组织较旧版明显扩展。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "edition_structure",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "目录组织变化不能单独证明每个对应正文均有新增观点。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C038",
+      "summary": "第四册目录在“清代前期的庄子学”下列胡文蔚《南华真经合注吹影》。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "toc_attribution",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核本版目录条目；作者身份、成书与版本尚需正文及原典互证。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C039",
+      "summary": "第四册目录在“清代前期的庄子学”下列顾如华《读庄一咳》。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "toc_attribution",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核目录所题；不由目录条目直接确认存本与著者身份。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C040",
+      "summary": "第四册目录将林仲懿《南华本义》单列为第七章，分求本义、理学化阐释和艺术分析三节。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "edition_structure",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C041",
+      "summary": "第四册目录将梅冲《庄子本义》单列为第十一章，并分别讨论儒门心学阐释与对形而下世俗境界的回护。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "toc_attribution",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "此条仅记录目录的研究安排，未把标题概括作为已详证的思想判断。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C042",
+      "summary": "方勇介绍林仲懿认为，不能只因《庄子》与儒家经典语言相近便忽略二者旨归的区别；又介绍其对故弄玄虚的旧注作批评。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "reported_interpretation",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "本条为方勇对林仲懿说法的转述；尚未回查《南华本义》原本。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C043",
+      "summary": "第四册叙述王念孙以音求义、参考成训及篇章语境释“培风”，与旧第三册相应论述在主题及例证上重叠。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "cross_edition_overlap",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "已对照本页与旧版ZY3:230；只确认本段主题与例证重叠，不声称两版全文逐字相同。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C044",
+      "summary": "方勇介绍马其昶把《庄子》理解为富于现实人间关怀的传道著作，并将其解释与清末处境联系起来。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_interpretation",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "属于方勇对马其昶的解释和历史联系，不能替代马氏原文全貌。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C045",
+      "summary": "方勇从惠施重视实用的思维取向出发，解释“大而无用”批评，并从政治、人生态度等方面作比较。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_reconstruction",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "这是方勇对传世叙述所作的思想重构；《庄子》中的人物对话不能未经辨析就充作惠施实录。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C046",
+      "summary": "方勇把《淮南子》的字句和故事与《庄子》多个篇章逐项对应，用作讨论其吸纳与阐释的材料。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_textual_argument",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "具体方向仍须结合文本层次与年代判断；本包未据字句相似独立裁定全部篇章的先后。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C047",
+      "summary": "方勇比较何晏、王弼与老庄的本体论，认为王弼在承用老庄时对“无”“一”等概念作了推进。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_interpretation",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C048",
+      "summary": "方勇将支遁以般若性空阐释《逍遥游》，置于魏晋南北朝佛庄递互解释的背景中考察。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_historical_explanation",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C049",
+      "summary": "方勇认为成玄英疏对郭象注的独化说有所承因，又试图解决它与《庄子》本体论之间的矛盾。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_interpretation",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C050",
+      "summary": "方勇介绍成玄英揭示譬喻并串讲章句的方法，将它与梳理《庄子》行文脉络联系起来。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_method_analysis",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C051",
+      "summary": "方勇将王安石《庄周论》从庄子所处时代推求著书用意的做法，概括为知人论世方法。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_method_analysis",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "本页另有首创性评价，本条不确认其为历史上首次使用该方法。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C052",
+      "summary": "方勇比较王雱《南华真经新传》宋刊与明刊的卷数及附录构成，认为十卷著录不必直接判为脱误“二”字。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_bibliographic_argument",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C053",
+      "summary": "方勇根据林经德序及艾轩学派背景，说明林希逸以通俗明白语言解释《庄子》的“口义”取向。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_historical_explanation",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C054",
+      "summary": "方勇把明代前期庄子学的状况与学校、科举和官方解释标准联系起来，并明确保留宋代是否以《庄子》试士的问题。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_historical_explanation",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "本条记录本书的制度解释及其保留问题；宏观因果与“完全排除”等强表述仍须扩大材料核查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C055",
+      "summary": "方勇通过“副墨”题名所出及陆西星自释，说明其把文字解释视为引向悟道的途径，同时承认文字局限。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_interpretation",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C056",
+      "summary": "方勇通过同一《养生主》句子，比较沈一贯与郭象的解释，讨论沈氏对郭注脱离上文的批评。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_comparison",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "沈氏的批评与方勇对庄子原意的认定分属不同评价层，不将任何一方自动认定为唯一正解。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C057",
+      "summary": "方勇据《采摭书目》列《庄子翼》采书四十九种，同时指出实际采用数量不均、标明出处也存在问题，并将焦竑自说“笔乘”另作辨析。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_bibliographic_analysis",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "四十九为书内目录所列种数，不等于四十九种独立可靠原典已核验。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C058",
+      "summary": "方勇结合卷首题署、序跋和相关记事，推测《药地炮庄》约1663年完稿，并另记次年刊刻。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_chronological_inference",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "本条保留约成稿与刊刻之别，未独立回查康熙原刻及所引题跋。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C059",
+      "summary": "方勇说明《庄子解》成书无明确记载，转引王孝鱼约1681年撰作的推测；又指出正文中少量注语出于王敔或他人。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "reported_chronological_hypothesis",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "1681年为被转引的推测，不是确定刊年；全书注语不能一概归给王夫之。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C060",
+      "summary": "方勇转述胡适以“名学方法”为哲学史中心，并保存其“家家有名学、没有名家”的主张。",
+      "proposer": "胡适，经方勇转引",
+      "layer": "quoted_historical_position",
+      "modality": "reported_position",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "这是胡适的学科立场，不能由此直接否定历史名家分类的存在或沿革。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C061",
+      "summary": "方勇介绍郭沫若反对把惠施归为墨家的说法，转而将其与黄老、杨朱联系。",
+      "proposer": "郭沫若，经方勇转引",
+      "layer": "quoted_historical_position",
+      "modality": "reported_position",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "郭沫若的归属判断尚须原典与论证互证，不作为惠施学派身份的已定事实。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C062",
+      "summary": "方勇在介绍胡适庄子名学论时，明确记胡适认为惠施也是墨者。",
+      "proposer": "胡适，经方勇转述",
+      "layer": "quoted_historical_position",
+      "modality": "reported_position",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "此处为方勇的概括而非胡适原文实见，须回查其原著及语境。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C063",
+      "summary": "方勇把闻一多庄子研究的变化与考据、释古学风联系起来，并对《庄子章句》与《庄子内篇校释》的研究积累关系作推论。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_historical_explanation",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "学风影响与作者心理动机不能等同；具体条目承用尚需两著逐条对照。",
+      "supersedes": null,
+      "revision_reason": null
+    },
+    {
+      "id": "C064",
+      "summary": "方勇将郎擎霄所谓科学方法拆为两层：按现代学科分类组织庄子学说，以及用具体西方学说阐释庄子。",
+      "proposer": "方勇",
+      "layer": "modern_monograph",
+      "modality": "source_method_analysis",
+      "review_status": "source_passage_checked",
+      "primary_status": "not_checked",
+      "limitations": "仅核验本书所载论断段落；所涉原典未独立回查。",
+      "supersedes": null,
+      "revision_reason": null
+    }
+  ],
+  "evidence": [
+    {
+      "id": "C001:E95",
+      "claim_id": "C001",
+      "page_id": "ZY1:95",
+      "scope": "司马彪注的目录卷数段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C002:E95",
+      "claim_id": "C002",
+      "page_id": "ZY1:95",
+      "scope": "解说三、为音三卷的文层辨析",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C003:E95",
+      "claim_id": "C003",
+      "page_id": "ZY1:95",
+      "scope": "李善注引佚书的段落",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C004:E404",
+      "claim_id": "C004",
+      "page_id": "ZY1:404",
+      "scope": "本页综述郭象以意去取的段落",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C005:E404",
+      "claim_id": "C005",
+      "page_id": "ZY1:404",
+      "scope": "第二节开头所引世说文字",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C006:E405",
+      "claim_id": "C006",
+      "page_id": "ZY1:405",
+      "scope": "页首引向秀传文字",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C007:E405",
+      "claim_id": "C007",
+      "page_id": "ZY1:405",
+      "scope": "比较两说后提出判断的段落",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C008:E406",
+      "claim_id": "C008",
+      "page_id": "ZY1:406",
+      "scope": "页首至独化论之前的比较段落",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C009:E509",
+      "claim_id": "C009",
+      "page_id": "ZY1:509",
+      "scope": "第五节开头与校字词异同段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C010:E509",
+      "claim_id": "C010",
+      "page_id": "ZY1:509",
+      "scope": "第五节首段统计句",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C011:E147",
+      "claim_id": "C011",
+      "page_id": "ZY2:147",
+      "scope": "林道春跋、林恕序及相关著述的段落",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C012:E147",
+      "claim_id": "C012",
+      "page_id": "ZY2:147",
+      "scope": "本页末段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C013:E148",
+      "claim_id": "C013",
+      "page_id": "ZY2:148",
+      "scope": "第六章首段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C014:E148",
+      "claim_id": "C014",
+      "page_id": "ZY2:148",
+      "scope": "第一节引四库提要段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C015:E158",
+      "claim_id": "C015",
+      "page_id": "ZY2:158",
+      "scope": "第三节首例",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C016:E158",
+      "claim_id": "C016",
+      "page_id": "ZY2:158",
+      "scope": "第三节首例中王念孙段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C017:E158",
+      "claim_id": "C017",
+      "page_id": "ZY2:158",
+      "scope": "知北游例",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C018:E159",
+      "claim_id": "C018",
+      "page_id": "ZY2:159",
+      "scope": "页首承接下不叛例",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C019:E159",
+      "claim_id": "C019",
+      "page_id": "ZY2:159",
+      "scope": "本页政治因素与圣人圣知例",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C020:E229",
+      "claim_id": "C020",
+      "page_id": "ZY3:229",
+      "scope": "第四节王念孙开头段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C021:E229",
+      "claim_id": "C021",
+      "page_id": "ZY3:229",
+      "scope": "第四节介绍及培风例起始段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C022:E230",
+      "claim_id": "C022",
+      "page_id": "ZY3:230",
+      "scope": "本页培风例的评论段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C023:E315",
+      "claim_id": "C023",
+      "page_id": "ZY3:315",
+      "scope": "第一节第二段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C024:E315",
+      "claim_id": "C024",
+      "page_id": "ZY3:315",
+      "scope": "第一节第二段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C025:E315",
+      "claim_id": "C025",
+      "page_id": "ZY3:315",
+      "scope": "癸巳序与1893年推算段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C026:E315",
+      "claim_id": "C026",
+      "page_id": "ZY3:315",
+      "scope": "第一节第一段与癸巳讨论",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C027:E316",
+      "claim_id": "C027",
+      "page_id": "ZY3:316",
+      "scope": "本页第一段后半",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C028:E316",
+      "claim_id": "C028",
+      "page_id": "ZY3:316",
+      "scope": "本页中部推断与思想内证段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C029:E316",
+      "claim_id": "C029",
+      "page_id": "ZY3:316",
+      "scope": "本页中部思想内证段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C030:E453",
+      "claim_id": "C030",
+      "page_id": "ZY3:453",
+      "scope": "本页首段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C031:E453",
+      "claim_id": "C031",
+      "page_id": "ZY3:453",
+      "scope": "本页校订原文的首例",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C032:E455",
+      "claim_id": "C032",
+      "page_id": "ZY3:455",
+      "scope": "本页总结段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C033:E455",
+      "claim_id": "C033",
+      "page_id": "ZY3:455",
+      "scope": "王叔岷小节末段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C034:E638",
+      "claim_id": "C034",
+      "page_id": "ZY3:638",
+      "scope": "第十章首段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C035:E638",
+      "claim_id": "C035",
+      "page_id": "ZY3:638",
+      "scope": "第一节中部评论",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C036:E4",
+      "claim_id": "C036",
+      "page_id": "ZY4:4",
+      "scope": "目录编名",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C037:E11",
+      "claim_id": "C037",
+      "page_id": "ZY4:11",
+      "scope": "目录末章",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C038:E4",
+      "claim_id": "C038",
+      "page_id": "ZY4:4",
+      "scope": "第二章第一节目录条",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C039:E4",
+      "claim_id": "C039",
+      "page_id": "ZY4:4",
+      "scope": "第二章第三节目录条",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C040:E6",
+      "claim_id": "C040",
+      "page_id": "ZY4:6",
+      "scope": "第七章目录",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C041:E7",
+      "claim_id": "C041",
+      "page_id": "ZY4:7",
+      "scope": "第十一章目录",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C042:E150",
+      "claim_id": "C042",
+      "page_id": "ZY4:150",
+      "scope": "林仲懿对旧注与门户归宿的讨论",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C043:E300",
+      "claim_id": "C043",
+      "page_id": "ZY4:300",
+      "scope": "本页前半培风讨论",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C043:Eold230",
+      "claim_id": "C043",
+      "page_id": "ZY3:230",
+      "scope": "培风评论段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "与增补版页图比较主题与例证；未做全文逐字差异校勘。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C044:E450",
+      "claim_id": "C044",
+      "page_id": "ZY4:450",
+      "scope": "本页关于现实关怀与清末处境的评论",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C045:E222",
+      "claim_id": "C045",
+      "page_id": "ZY1:222",
+      "scope": "惠施评论的推究及政治比较段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C046:E271",
+      "claim_id": "C046",
+      "page_id": "ZY1:271",
+      "scope": "本页所列九组对应例",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C047:E367",
+      "claim_id": "C047",
+      "page_id": "ZY1:367",
+      "scope": "以无为本的本体论一节",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C048:E438",
+      "claim_id": "C048",
+      "page_id": "ZY1:438",
+      "scope": "页首佛庄互释段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C049:E517",
+      "claim_id": "C049",
+      "page_id": "ZY1:517",
+      "scope": "本郭象独化说而为之引申发挥",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C050:E530",
+      "claim_id": "C050",
+      "page_id": "ZY1:530",
+      "scope": "第三节之前的譬喻与章句串讲段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C051:E33",
+      "claim_id": "C051",
+      "page_id": "ZY2:33",
+      "scope": "推求庄子之意的论证段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C052:E69",
+      "claim_id": "C052",
+      "page_id": "ZY2:69",
+      "scope": "卷数差异与后世编订的讨论",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C053:E114",
+      "claim_id": "C053",
+      "page_id": "ZY2:114",
+      "scope": "第一节口义命名与学源讨论",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C054:E337",
+      "claim_id": "C054",
+      "page_id": "ZY2:337",
+      "scope": "宋明教育制度比较段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C055:E489",
+      "claim_id": "C055",
+      "page_id": "ZY2:489",
+      "scope": "副墨题义与解释宗旨段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C056:E511",
+      "claim_id": "C056",
+      "page_id": "ZY2:511",
+      "scope": "泽雉例",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C057:E546",
+      "claim_id": "C057",
+      "page_id": "ZY2:546",
+      "scope": "采摭书目、实际采录与笔乘段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C058:E623",
+      "claim_id": "C058",
+      "page_id": "ZY2:623",
+      "scope": "题署、序跋与成稿刊刻段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C059:E642",
+      "claim_id": "C059",
+      "page_id": "ZY2:642",
+      "scope": "成书时间、注疏体例与增注段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C060:E487",
+      "claim_id": "C060",
+      "page_id": "ZY3:487",
+      "scope": "胡适特别立场与名学的引文",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C061:E543",
+      "claim_id": "C061",
+      "page_id": "ZY3:543",
+      "scope": "惠施思想归属讨论",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C062:E487",
+      "claim_id": "C062",
+      "page_id": "ZY3:487",
+      "scope": "本页怀疑主义段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C063:E571",
+      "claim_id": "C063",
+      "page_id": "ZY3:571",
+      "scope": "学风及两著形成关系的讨论",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    },
+    {
+      "id": "C064:E590",
+      "claim_id": "C064",
+      "page_id": "ZY3:590",
+      "scope": "第一节中部两层含义段",
+      "review_status": "source_passage_checked",
+      "stance": "supports",
+      "review_note": "已对照页图核对本概述涉及的段落；未对整页OCR逐字校订。 公开版仅提供定位；源段核验为本地整理记录，仓库不附影页或原书。"
+    }
+  ],
+  "relations": [
+    {
+      "id": "R001",
+      "subject_id": "work:司马彪《庄子注》",
+      "predicate": "具有卷数记载差异",
+      "object_id": "problem:隋唐目录卷数差异",
+      "claim_id": "C001"
+    },
+    {
+      "id": "R002",
+      "subject_id": "work:司马彪《庄子注》",
+      "predicate": "被辨析文层",
+      "object_id": "text_layer:解说三",
+      "claim_id": "C002"
+    },
+    {
+      "id": "R003",
+      "subject_id": "person:刘安",
+      "predicate": "被归属著述",
+      "object_id": "work:庄子略要",
+      "claim_id": "C003"
+    },
+    {
+      "id": "R004",
+      "subject_id": "person:刘安",
+      "predicate": "被归属著述",
+      "object_id": "work:庄子后解",
+      "claim_id": "C003"
+    },
+    {
+      "id": "R005",
+      "subject_id": "person:司马彪",
+      "predicate": "被记为作注",
+      "object_id": "work:庄子略要",
+      "claim_id": "C003"
+    },
+    {
+      "id": "R006",
+      "subject_id": "work:文选李善注",
+      "predicate": "保存相关佚文",
+      "object_id": "work:庄子略要",
+      "claim_id": "C003"
+    },
+    {
+      "id": "R007",
+      "subject_id": "person:郭象",
+      "predicate": "被论述删定",
+      "object_id": "work:庄子",
+      "claim_id": "C004"
+    },
+    {
+      "id": "R008",
+      "subject_id": "work:世说新语·文学",
+      "predicate": "提出剽窃指控",
+      "object_id": "person:郭象",
+      "claim_id": "C005"
+    },
+    {
+      "id": "R009",
+      "subject_id": "person:郭象",
+      "predicate": "被指取用",
+      "object_id": "work:向秀《庄子注》",
+      "claim_id": "C005"
+    },
+    {
+      "id": "R010",
+      "subject_id": "work:晋书·向秀传",
+      "predicate": "提供不同表述",
+      "object_id": "work:郭象《庄子注》",
+      "claim_id": "C006"
+    },
+    {
+      "id": "R011",
+      "subject_id": "work:郭象《庄子注》",
+      "predicate": "被判断扩充改造",
+      "object_id": "work:向秀《庄子注》",
+      "claim_id": "C007"
+    },
+    {
+      "id": "R012",
+      "subject_id": "person:张湛",
+      "predicate": "保存注文",
+      "object_id": "work:向秀《庄子注》",
+      "claim_id": "C008"
+    },
+    {
+      "id": "R013",
+      "subject_id": "work:郭象《庄子注》",
+      "predicate": "被逐条比较",
+      "object_id": "work:向秀《庄子注》",
+      "claim_id": "C008"
+    },
+    {
+      "id": "R014",
+      "subject_id": "person:陆德明",
+      "predicate": "校勘并记录异文",
+      "object_id": "work:庄子",
+      "claim_id": "C009"
+    },
+    {
+      "id": "R015",
+      "subject_id": "work:经典释文·庄子音义",
+      "predicate": "保存异文",
+      "object_id": "work:庄子",
+      "claim_id": "C009"
+    },
+    {
+      "id": "R016",
+      "subject_id": "work:经典释文·庄子音义",
+      "predicate": "被统计校勘活动",
+      "object_id": "work:郭象《庄子注》",
+      "claim_id": "C010"
+    },
+    {
+      "id": "R017",
+      "subject_id": "work:庄子口义",
+      "predicate": "被论述传播地区",
+      "object_id": "place:日本",
+      "claim_id": "C011"
+    },
+    {
+      "id": "R018",
+      "subject_id": "work:庄子口义",
+      "predicate": "被论述评价转变",
+      "object_id": "work:郭象《庄子注》",
+      "claim_id": "C012"
+    },
+    {
+      "id": "R019",
+      "subject_id": "person:褚伯秀",
+      "predicate": "被归属纂辑",
+      "object_id": "work:南华真经义海纂微",
+      "claim_id": "C013"
+    },
+    {
+      "id": "R020",
+      "subject_id": "work:南华真经义海纂微",
+      "predicate": "区分汇辑旧说与自说",
+      "object_id": "text_layer:管见",
+      "claim_id": "C014"
+    },
+    {
+      "id": "R021",
+      "subject_id": "person:褚伯秀",
+      "predicate": "提出校读",
+      "object_id": "problem:三月／三日",
+      "claim_id": "C015"
+    },
+    {
+      "id": "R022",
+      "subject_id": "person:王念孙",
+      "predicate": "被比较同一校读",
+      "object_id": "person:褚伯秀",
+      "claim_id": "C016"
+    },
+    {
+      "id": "R023",
+      "subject_id": "person:刘文典",
+      "predicate": "被比较校勘论证",
+      "object_id": "person:褚伯秀",
+      "claim_id": "C017"
+    },
+    {
+      "id": "R024",
+      "subject_id": "person:刘文典",
+      "predicate": "使用平行文论证",
+      "object_id": "work:淮南子",
+      "claim_id": "C017"
+    },
+    {
+      "id": "R025",
+      "subject_id": "work:南华真经义海纂微",
+      "predicate": "被论述校勘",
+      "object_id": "problem:下畔／下不畔",
+      "claim_id": "C018"
+    },
+    {
+      "id": "R026",
+      "subject_id": "person:褚伯秀",
+      "predicate": "提出政治语境推测",
+      "object_id": "problem:圣人／圣知",
+      "claim_id": "C019"
+    },
+    {
+      "id": "R027",
+      "subject_id": "person:王念孙",
+      "predicate": "被归属著述",
+      "object_id": "work:庄子杂志",
+      "claim_id": "C020"
+    },
+    {
+      "id": "R028",
+      "subject_id": "person:王引之",
+      "predicate": "被记为编集遗稿",
+      "object_id": "work:庄子杂志",
+      "claim_id": "C020"
+    },
+    {
+      "id": "R029",
+      "subject_id": "person:王念孙",
+      "predicate": "被概括研究方法",
+      "object_id": "method_topic:以音求义、参考成训",
+      "claim_id": "C021"
+    },
+    {
+      "id": "R030",
+      "subject_id": "work:庄子杂志",
+      "predicate": "被论述语义与篇章结合",
+      "object_id": "problem:培风",
+      "claim_id": "C022"
+    },
+    {
+      "id": "R031",
+      "subject_id": "work:庄子评点",
+      "predicate": "具有多个文本见证",
+      "object_id": "edition:眠云堂本",
+      "claim_id": "C023"
+    },
+    {
+      "id": "R032",
+      "subject_id": "work:庄子评点",
+      "predicate": "具有多个文本见证",
+      "object_id": "edition:严璩自藏影印本",
+      "claim_id": "C023"
+    },
+    {
+      "id": "R033",
+      "subject_id": "person:王栻",
+      "predicate": "被记为编校",
+      "object_id": "work:严复集·庄子评语",
+      "claim_id": "C024"
+    },
+    {
+      "id": "R034",
+      "subject_id": "person:曾克耑",
+      "predicate": "被记有序文",
+      "object_id": "work:庄子评点",
+      "claim_id": "C025"
+    },
+    {
+      "id": "R035",
+      "subject_id": "person:严璩",
+      "predicate": "被引记载批书",
+      "object_id": "person:严复",
+      "claim_id": "C026"
+    },
+    {
+      "id": "R036",
+      "subject_id": "evidence_group:严复批庄年谱记载",
+      "predicate": "被质疑来源独立性",
+      "object_id": "work:庄子评点",
+      "claim_id": "C027"
+    },
+    {
+      "id": "R037",
+      "subject_id": "person:严复",
+      "predicate": "被推断分期批注",
+      "object_id": "work:庄子评点",
+      "claim_id": "C028"
+    },
+    {
+      "id": "R038",
+      "subject_id": "work:庄子评点",
+      "predicate": "被用于讨论成书内证",
+      "object_id": "method_topic:思想与引用下限",
+      "claim_id": "C029"
+    },
+    {
+      "id": "R039",
+      "subject_id": "person:刘文典",
+      "predicate": "被归属著述",
+      "object_id": "work:庄子补正",
+      "claim_id": "C030"
+    },
+    {
+      "id": "R040",
+      "subject_id": "work:庄子补正",
+      "predicate": "采集校释材料",
+      "object_id": "work:郭象《庄子注》",
+      "claim_id": "C030"
+    },
+    {
+      "id": "R041",
+      "subject_id": "work:庄子补正",
+      "predicate": "采集校释材料",
+      "object_id": "work:经典释文·庄子音义",
+      "claim_id": "C030"
+    },
+    {
+      "id": "R042",
+      "subject_id": "person:刘文典",
+      "predicate": "被论述以引文校脱文",
+      "object_id": "problem:而止二字",
+      "claim_id": "C031"
+    },
+    {
+      "id": "R043",
+      "subject_id": "work:庄子补正",
+      "predicate": "被概括研究贡献",
+      "object_id": "method_topic:字义、原文与旧注疏三层考证",
+      "claim_id": "C032"
+    },
+    {
+      "id": "R044",
+      "subject_id": "person:王叔岷",
+      "predicate": "被归属著述",
+      "object_id": "work:庄子校释",
+      "claim_id": "C033"
+    },
+    {
+      "id": "R045",
+      "subject_id": "work:庄子校释",
+      "predicate": "附有对前著评议",
+      "object_id": "work:庄子补正",
+      "claim_id": "C033"
+    },
+    {
+      "id": "R046",
+      "subject_id": "work:庄子·天下",
+      "predicate": "被论述专题化研究",
+      "object_id": "period_topic:清末民国研究转向",
+      "claim_id": "C034"
+    },
+    {
+      "id": "R047",
+      "subject_id": "work:庄子·天下",
+      "predicate": "被评价为学术史论著",
+      "object_id": "method_topic:学术史分类与评价",
+      "claim_id": "C035"
+    },
+    {
+      "id": "R048",
+      "subject_id": "modern_source:庄子学史第四册增补版",
+      "predicate": "具有本版编次",
+      "object_id": "section:第七编清代庄子学",
+      "claim_id": "C036"
+    },
+    {
+      "id": "R049",
+      "subject_id": "modern_source:庄子学史第四册增补版",
+      "predicate": "具有章节终点",
+      "object_id": "section:第二十五章清代佛教学者的庄子学",
+      "claim_id": "C037"
+    },
+    {
+      "id": "R050",
+      "subject_id": "person:胡文蔚",
+      "predicate": "目录归属著述",
+      "object_id": "work:南华真经合注吹影",
+      "claim_id": "C038"
+    },
+    {
+      "id": "R051",
+      "subject_id": "person:顾如华",
+      "predicate": "目录归属著述",
+      "object_id": "work:读庄一咳",
+      "claim_id": "C039"
+    },
+    {
+      "id": "R052",
+      "subject_id": "person:林仲懿",
+      "predicate": "目录归属著述",
+      "object_id": "work:南华本义",
+      "claim_id": "C040"
+    },
+    {
+      "id": "R053",
+      "subject_id": "modern_source:庄子学史第四册增补版",
+      "predicate": "单列研究专题",
+      "object_id": "work:南华本义",
+      "claim_id": "C040"
+    },
+    {
+      "id": "R054",
+      "subject_id": "person:梅冲",
+      "predicate": "目录归属著述",
+      "object_id": "work:庄子本义",
+      "claim_id": "C041"
+    },
+    {
+      "id": "R055",
+      "subject_id": "person:林仲懿",
+      "predicate": "被论述批评旧注方法",
+      "object_id": "work:南华本义",
+      "claim_id": "C042"
+    },
+    {
+      "id": "R056",
+      "subject_id": "modern_source:庄子学史第四册增补版",
+      "predicate": "共享论述主题",
+      "object_id": "modern_source:庄子学史第三册旧版",
+      "claim_id": "C043"
+    },
+    {
+      "id": "R057",
+      "subject_id": "work:庄子杂志",
+      "predicate": "被论述音义与篇章结合",
+      "object_id": "problem:培风",
+      "claim_id": "C043"
+    },
+    {
+      "id": "R058",
+      "subject_id": "person:马其昶",
+      "predicate": "被归属著述",
+      "object_id": "work:庄子故",
+      "claim_id": "C044"
+    },
+    {
+      "id": "R059",
+      "subject_id": "work:庄子故",
+      "predicate": "被论述现实取向",
+      "object_id": "method_topic:人间关怀",
+      "claim_id": "C044"
+    },
+    {
+      "id": "R060",
+      "subject_id": "person:惠施",
+      "predicate": "被重构对庄批评",
+      "object_id": "work:庄子",
+      "claim_id": "C045"
+    },
+    {
+      "id": "R061",
+      "subject_id": "work:淮南子",
+      "predicate": "被比较承用文本",
+      "object_id": "work:庄子",
+      "claim_id": "C046"
+    },
+    {
+      "id": "R062",
+      "subject_id": "person:王弼",
+      "predicate": "被论述承用并推进",
+      "object_id": "work:庄子",
+      "claim_id": "C047"
+    },
+    {
+      "id": "R063",
+      "subject_id": "person:支遁",
+      "predicate": "被论述以佛理释庄",
+      "object_id": "work:庄子·逍遥游",
+      "claim_id": "C048"
+    },
+    {
+      "id": "R064",
+      "subject_id": "work:庄子疏",
+      "predicate": "被论述承因与调适",
+      "object_id": "work:郭象《庄子注》",
+      "claim_id": "C049"
+    },
+    {
+      "id": "R065",
+      "subject_id": "person:成玄英",
+      "predicate": "被论述章句解释",
+      "object_id": "work:庄子",
+      "claim_id": "C050"
+    },
+    {
+      "id": "R066",
+      "subject_id": "person:王安石",
+      "predicate": "被概括解释方法",
+      "object_id": "method_topic:知人论世",
+      "claim_id": "C051"
+    },
+    {
+      "id": "R067",
+      "subject_id": "work:南华真经新传",
+      "predicate": "被比较版本构成",
+      "object_id": "problem:十卷／二十卷",
+      "claim_id": "C052"
+    },
+    {
+      "id": "R068",
+      "subject_id": "person:林希逸",
+      "predicate": "被论述通俗解释方式",
+      "object_id": "work:庄子口义",
+      "claim_id": "C053"
+    },
+    {
+      "id": "R069",
+      "subject_id": "institution_topic:教育与科举制度",
+      "predicate": "被用于解释研究环境",
+      "object_id": "period_topic:明代前期庄子学",
+      "claim_id": "C054"
+    },
+    {
+      "id": "R070",
+      "subject_id": "person:陆西星",
+      "predicate": "被归属著述",
+      "object_id": "work:南华真经副墨",
+      "claim_id": "C055"
+    },
+    {
+      "id": "R071",
+      "subject_id": "work:南华真经副墨",
+      "predicate": "被分析题名与宗旨",
+      "object_id": "work:庄子",
+      "claim_id": "C055"
+    },
+    {
+      "id": "R072",
+      "subject_id": "work:沈一贯《庄子通》",
+      "predicate": "被比较批评前注",
+      "object_id": "work:郭象《庄子注》",
+      "claim_id": "C056"
+    },
+    {
+      "id": "R073",
+      "subject_id": "person:焦竑",
+      "predicate": "被归属编纂",
+      "object_id": "work:庄子翼",
+      "claim_id": "C057"
+    },
+    {
+      "id": "R074",
+      "subject_id": "work:庄子翼",
+      "predicate": "被辨析旧说与自说",
+      "object_id": "text_layer:笔乘",
+      "claim_id": "C057"
+    },
+    {
+      "id": "R075",
+      "subject_id": "person:方以智",
+      "predicate": "被归属著述",
+      "object_id": "work:药地炮庄",
+      "claim_id": "C058"
+    },
+    {
+      "id": "R076",
+      "subject_id": "person:王夫之",
+      "predicate": "被归属著述",
+      "object_id": "work:王夫之《庄子解》",
+      "claim_id": "C059"
+    },
+    {
+      "id": "R077",
+      "subject_id": "person:王敔",
+      "predicate": "被记为增注",
+      "object_id": "work:王夫之《庄子解》",
+      "claim_id": "C059"
+    },
+    {
+      "id": "R078",
+      "subject_id": "person:胡适",
+      "predicate": "提出学派分类主张",
+      "object_id": "problem:名家是否成立",
+      "claim_id": "C060"
+    },
+    {
+      "id": "R079",
+      "subject_id": "person:郭沫若",
+      "predicate": "提出惠施归属判断",
+      "object_id": "person:惠施",
+      "claim_id": "C061"
+    },
+    {
+      "id": "R080",
+      "subject_id": "person:胡适",
+      "predicate": "提出惠施归属判断",
+      "object_id": "person:惠施",
+      "claim_id": "C062"
+    },
+    {
+      "id": "R081",
+      "subject_id": "person:闻一多",
+      "predicate": "被论述研究取向变化",
+      "object_id": "work:庄子内篇校释",
+      "claim_id": "C063"
+    },
+    {
+      "id": "R082",
+      "subject_id": "person:郎擎霄",
+      "predicate": "被归属著述",
+      "object_id": "work:庄子学案",
+      "claim_id": "C064"
+    },
+    {
+      "id": "R083",
+      "subject_id": "work:庄子学案",
+      "predicate": "被分析现代学科重组",
+      "object_id": "work:庄子",
+      "claim_id": "C064"
+    }
+  ],
+  "disputes": [
+    {
+      "id": "D001",
+      "question": "郭象注与向秀注的关系应如何判断？",
+      "positions": "《世说新语》所载剽窃说；《晋书·向秀传》述而广之说；方勇通过文献性质、篇数和文本比较倾向后说。",
+      "claim_ids": "[\"C005\", \"C006\", \"C007\", \"C008\"]",
+      "next_evidence": "核查两部古籍相应版本、陆德明序录、张湛注中的向注与郭注逐条差异；不以作者声誉作唯一反证。",
+      "status": "open"
+    },
+    {
+      "id": "D002",
+      "question": "严复现行《庄子评点》何时形成？",
+      "positions": "1893年序文提供早期批注线索；1916年年谱记晚年手批；方勇提出多阶段批注和晚年融合的可能。",
+      "claim_ids": "[\"C023\", \"C025\", \"C026\", \"C027\", \"C028\", \"C029\"]",
+      "next_evidence": "核查曾克耑序、各批本、王栻编校说明、年谱相互关系及评语所引西书年代。",
+      "status": "open"
+    },
+    {
+      "id": "D003",
+      "question": "《山木》“三月不庭”应如何校读？",
+      "positions": "传本文字为三月；《音义》所载另一读为三日；褚伯秀与王念孙据下文顷间支持三日。",
+      "claim_ids": "[\"C015\", \"C016\"]",
+      "next_evidence": "逐一核查《音义》版本、褚氏管见和王念孙原条；判断异文来源与承袭链。",
+      "status": "open"
+    },
+    {
+      "id": "D004",
+      "question": "“圣人／圣知”异文能否归因于政治顾忌？",
+      "positions": "褚伯秀提出奉旨校定、进呈时有所顾忌的可能；方勇转述这一解释。",
+      "claim_ids": "[\"C019\"]",
+      "next_evidence": "核对张君房本、陈景元校语、各处词义及具体刊校制度材料；区分异文事实与动因假说。",
+      "status": "open"
+    },
+    {
+      "id": "D005",
+      "question": "隋唐目录所载司马彪注卷数差异意味着什么？",
+      "positions": "隋志十六卷并记本二十一卷今阙；唐志二十一卷；方勇推测后来复得足本。",
+      "claim_ids": "[\"C001\"]",
+      "next_evidence": "核对目录版本、著录沿袭及卷数制度；寻找足本存世或流传的独立记录。",
+      "status": "open"
+    },
+    {
+      "id": "D006",
+      "question": "《天下》篇“最早学术史论文”的评价如何成立？",
+      "positions": "方勇据源流追溯、分类和学说评论作出评价；本包尚未完成同类早期文本的系统比较。",
+      "claim_ids": "[\"C034\", \"C035\"]",
+      "next_evidence": "界定论文与学术史的判据，比较同类先秦文献，避免现代体裁概念直接投射。",
+      "status": "open"
+    },
+    {
+      "id": "D007",
+      "question": "旧第三册与增补版第四册如何合并使用？",
+      "positions": "清代部分编次和章节组织改变，新增/拆分条目与原有内容并存；王念孙培风段在两版有明显主题重叠。",
+      "claim_ids": "[\"C036\", \"C037\", \"C040\", \"C041\", \"C043\"]",
+      "next_evidence": "逐章对应，并按引文、论点和论证判断新增、修订、重排；未经比勘不能把同主题页计为独立佐证。",
+      "status": "open"
+    },
+    {
+      "id": "D008",
+      "question": "惠施的学派归属如何被现代学者重构？",
+      "positions": "方勇介绍胡适认为惠施属墨者；介绍郭沫若明确反对这种归属，并提出黄老、杨朱联系。",
+      "claim_ids": "[\"C060\", \"C061\", \"C062\"]",
+      "next_evidence": "回查胡适与郭沫若原著，辨析名学、名家、辩者、黄老等分类的年代、语境与判据；不把现代分类争议直接写成先秦事实。",
+      "status": "open"
+    },
+    {
+      "id": "D009",
+      "question": "《南华真经新传》十卷与二十卷著录是否只是脱字？",
+      "positions": "有读法把十卷视为脱二字；方勇从存本、附录构成与缺篇提出卷数异本及后世编订的解释。",
+      "claim_ids": "[\"C052\"]",
+      "next_evidence": "核查相关目录版本及宋、明刊本实际卷端卷尾，区分题名一致与内容同一。",
+      "status": "open"
+    }
+  ],
+  "methods": [
+    {
+      "id": "M001",
+      "title": "目录差异转化为研究问题",
+      "content": "并列各目录的卷篇数、年代和来源；判断差异可能源于缺卷、复得、重编或沿录；先提出竞争解释，再寻找独立证据。输出著录比较表与待证假说。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C001\"]"
+    },
+    {
+      "id": "M002",
+      "title": "分辨原作、注释与编者文层",
+      "content": "核对卷篇结构、题署与引文语气，分别登记原文、解说、音义和按语；不要因汇编在同一书中就归为同一作者。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C002\", \"C014\"]"
+    },
+    {
+      "id": "M003",
+      "title": "以引书保存关系追索佚文",
+      "content": "登记引书卷篇、原署、引文起讫和转引链；同一引文在多处出现先判断是否共享来源。输出佚文见证表，保留作者归属与篇目归属的不确定性。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C003\"]"
+    },
+    {
+      "id": "M004",
+      "title": "同时评价定本形成与材料损失",
+      "content": "对照传本变化，说明删定提高可读性或传播力的同时失去了哪些材料；不以胜出版本等同于原貌。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C004\"]"
+    },
+    {
+      "id": "M005",
+      "title": "争议判断先拆分材料陈述",
+      "content": "将古代指控、其他古代记述、现代论者判断分成独立论断，分别附出处；检验文献性质及作者偏向，避免将某一说直接写成事实。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C005\", \"C006\", \"C007\"]"
+    },
+    {
+      "id": "M006",
+      "title": "逐条比较承袭与改造",
+      "content": "选同一经文，对照文字相同、删改、新增和解释方向；先比较再概括。篇数统计和思想比较分别留依据。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C008\"]"
+    },
+    {
+      "id": "M007",
+      "title": "异文并存与择善可以并行",
+      "content": "分别记录底本、异文、说明与取舍；两说俱通时可并列，不必强行唯一化。数量统计另注明口径及是否复核。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C009\", \"C010\"]"
+    },
+    {
+      "id": "M008",
+      "title": "把传播渠道落实为材料",
+      "content": "从序跋、刊刻、推荐、讲授、征引和具体著述中逐项取证；人物、地区、时间与动作分开，避免只用思想相似证明传播。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C011\"]"
+    },
+    {
+      "id": "M009",
+      "title": "追踪接受地位的反复变化",
+      "content": "同一著作在不同地区和时段分别建记录；考察其权威的升降与解释标准变化，避免线性影响叙述。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C012\"]"
+    },
+    {
+      "id": "M010",
+      "title": "以上下文审查校读",
+      "content": "保留传本文字与异文；明确哪些词句构成语境证据，再说明取舍；文义通顺不自动等于有古本依据。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C015\", \"C016\"]"
+    },
+    {
+      "id": "M011",
+      "title": "结合平行文与注疏互证",
+      "content": "并列本书上下文、他书平行文、旧注疏；逐一说明它们支持字形、句读还是义理，避免一个证据跨层证明所有问题。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C017\", \"C018\", \"C031\"]"
+    },
+    {
+      "id": "M012",
+      "title": "异文事实与政治动因分开",
+      "content": "先证明具体版本确有差异，再提出政治或制度解释；保留可能语气，并列语义校改等竞争解释。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C019\"]"
+    },
+    {
+      "id": "M013",
+      "title": "区分作者遗稿与后人编集",
+      "content": "记录原作者、编集者、选条原则与版本；未刊稿、讲义、续批、整理本分别登记。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C020\", \"C024\", \"C030\"]"
+    },
+    {
+      "id": "M014",
+      "title": "音训考证与篇章解释衔接",
+      "content": "先核声音、成训、用例和句法，再说明字义改变如何影响篇章；区分训诂可证部分和整篇解释的延伸。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C021\", \"C022\"]"
+    },
+    {
+      "id": "M015",
+      "title": "年代冲突采用多阶段成书模型",
+      "content": "并列序跋、年谱、引用下限和内证；区分初批、续批、编定、刊行；证据不足时给时间区间或分层假说。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C023\", \"C025\", \"C026\", \"C028\", \"C029\"]"
+    },
+    {
+      "id": "M016",
+      "title": "检查证据来源的独立性",
+      "content": "多个年谱或目录记载相同并不增加相同数量的独立支持；追查共同来源，并把同一来源家族归组。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C027\"]"
+    },
+    {
+      "id": "M017",
+      "title": "贡献按研究活动分类",
+      "content": "将释字、校文、纠注疏、篇章评点、辑佚和刊刻分列；用具体成果说明其地位，不只给笼统高低评价。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C030\", \"C032\", \"C033\"]"
+    },
+    {
+      "id": "M018",
+      "title": "以研究对象变化解释分期",
+      "content": "观察何时出现某篇独立研究、某种新材料或新方法；用著述与问题变化提出分期，再检验早期先例与延续。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C034\"]"
+    },
+    {
+      "id": "M019",
+      "title": "强评价需要限定检索边界",
+      "content": "最早、首创、集大成等说法保存提出者和判断标准；未完成同类材料调查时只报道此说，不自行确认。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C035\"]"
+    },
+    {
+      "id": "M020",
+      "title": "从庄子学迁移到其他诸子",
+      "content": "沿用证据、版本与争议流程；对名家等材料稀少对象先建散见著录和佚文链，不预设注疏连续、学派自我认同或线性传承。",
+      "origin": "project_adaptation",
+      "case_claim_ids": "[]"
+    },
+    {
+      "id": "M021",
+      "title": "新版按章节与论断两级对应旧版",
+      "content": "先对目录与章节归属，再比较同一例证的文句、引证与判断；分别标新增条目、重排、正文增补及原论点修订。没有逐字比勘时只报告目录差异或主题重叠。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C036\", \"C037\", \"C040\", \"C041\", \"C043\"]"
+    },
+    {
+      "id": "M022",
+      "title": "识别引文借用与解释旨归的差别",
+      "content": "比较引文原语境与解释后的用途；共享措辞并不保证同一旨趣。把被研究者自称本义、对旧说批评与现代论者评价分别登记。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C042\", \"C044\"]"
+    },
+    {
+      "id": "M023",
+      "title": "人物对话先辨文本性质",
+      "content": "将寓言中的人物发言、史书叙述和现代思想重构分别标记；需要恢复人物实说时检查独立见证与文本层次。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C045\", \"C060\", \"C061\", \"C062\"]"
+    },
+    {
+      "id": "M024",
+      "title": "逐句对应后再论文本承用",
+      "content": "对照字句、次序、故事与解释功能；再结合成书层次和年代判断方向，不能由相似文字直接推出单线承袭。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C046\"]"
+    },
+    {
+      "id": "M025",
+      "title": "跨学派解释同时考察材料与问题",
+      "content": "记录解释者使用的概念和经文，说明哪些意思被保留、置换或调适；所属宗教或学派不能替代具体解释分析。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C047\", \"C048\", \"C049\"]"
+    },
+    {
+      "id": "M026",
+      "title": "章句与修辞可以进入学术史",
+      "content": "把比喻识别、篇章串讲、文章评点当作可比较的解释活动，考察它们解决的读法问题与传播效果。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C050\", \"C053\"]"
+    },
+    {
+      "id": "M027",
+      "title": "题名、序文与正文交叉检验宗旨",
+      "content": "从书名出处、序跋自述进入，再用实际注释检验是否贯彻；不能只凭书名给全书定性。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C055\"]"
+    },
+    {
+      "id": "M028",
+      "title": "研究环境避免单因果解释",
+      "content": "把制度、刊刻与个人实践分别列证，允许一般环境与个别例外并存；保存作者明言未决的问题。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C051\", \"C054\", \"C063\"]"
+    },
+    {
+      "id": "M029",
+      "title": "汇编目录种数不等于证据数",
+      "content": "核查实际引文分布、间接转引、改署和编者自说；采书广度与引证可靠性分开评价。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C057\", \"C058\"]"
+    },
+    {
+      "id": "M030",
+      "title": "先辨现代分类再书写先秦学派",
+      "content": "区分逻辑方法意义的名学、后出史学分类的名家和历史人物实际归属；并列现代学者判据，回到先秦见证验证。",
+      "origin": "source_case_induction",
+      "case_claim_ids": "[\"C060\", \"C061\", \"C062\", \"C064\"]"
+    }
+  ]
+}
