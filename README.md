@@ -17,9 +17,9 @@
 
 ## 安装为 Skill
 
-`sh
+```sh
 git clone https://github.com/sanmo4749/zhuzi-academic-history.git .agents/skills/zhuzi-academic-history
-`
+```
 
 将整个仓库作为 `zhuzi-academic-history` 文件夹放入项目的 `.agents/skills/`，或个人技能目录。`SKILL.md` 位于仓库根目录；不要只复制入口文件。
 
